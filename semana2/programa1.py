@@ -2,7 +2,7 @@
     #Programa 1
     #Nombre: Irvin O.P.
     #Fecha:23/01/2023
-    #Descripcio:Comentarios multilinea, comentarios de una linea y concatenacion de cadenas , cadena de caracteres
+    #Descripcion:Comentarios multilinea, comentarios de una linea y concatenacion de cadenas , cadena de caracteres
 """    
 variable1 = "Hola "  #variable tipo str
 variable2 = "619"  #variable tipo int
